@@ -6,6 +6,16 @@ This guide provides an overview of essential Docker commands to help you manage 
 
 ## 📦 Image Commands
 
+### `docker image build`
+
+Builds the docker image from the DockerFile.
+
+```bash
+docker image build
+```
+
+Alias: `docker build`
+
 ### `docker image ls`
 
 List all Docker images present on your system.
