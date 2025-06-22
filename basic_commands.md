@@ -179,6 +179,7 @@ Use this to interactively work inside a running container.
 
 | Command | Purpose | Alias |
 | :-- | :-- | :-- |
+| `docker image build` | Builds image | `docker build` |
 | `docker image ls` | List images | `docker images` |
 | `docker image pull` | Download image | `docker pull` |
 | `docker image rm` | Remove image | `docker rmi` |
