@@ -62,5 +62,5 @@ sudo systemctl disable containerd.service
 ```
 
 ### References: 
-- [Docker install script documentation](https://docs.docker.com/engine/install/#install-using-the-convenience-script)
+- [Docker install script documentation](https://docs.docker.com/engine/install/ubuntu/#install-using-the-convenience-script)
 - [Post-install steps for Linux](https://docs.docker.com/engine/install/linux-postinstall/)
