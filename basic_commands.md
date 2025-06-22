@@ -185,6 +185,6 @@ Use this to interactively work inside a running container.
 
 ## 🔗 References
 
-- Docker CLI reference
-- Docker images management
-- Docker container management
+- [Docker CLI reference](https://docs.docker.com/reference/cli/docker/)
+- [Docker images management](https://docs.docker.com/reference/cli/docker/image/)
+- [Docker container management](https://docs.docker.com/engine/reference/commandline/container/)
